@@ -1,0 +1,43 @@
+.page-enter.forward {
+    transform: translateX(100%);
+    opacity: 0;
+}
+
+.page-enter-active.forward {
+    transform: translateX(0);
+    opacity: 1;
+    transition: all 750ms ease-in-out;
+}
+
+.page-exit.forward {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.page-exit-active.forward {
+    transform: translateX(-100%);
+    opacity: 0;
+    transition: all 750ms ease-in-out;
+}
+
+.page-enter.backward {
+    transform: translateX(-100%);
+    opacity: 0;
+}
+
+.page-enter-active.backward {
+    transform: translateX(0);
+    opacity: 1;
+    transition: all 750ms ease-in-out;
+}
+
+.page-exit.backward {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.page-exit-active.backward {
+    transform: translateX(100%);
+    opacity: 0;
+    transition: all 750ms ease-in-out;
+}

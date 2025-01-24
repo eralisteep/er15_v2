@@ -1,0 +1,304 @@
+.imgStyle {
+    color: white;
+    display: block;
+}
+
+.discipline {
+    color: white;
+    display: block;
+    margin-left: 115px;
+}
+
+.h1 {
+    color: white;
+    text-align: center;
+}
+
+.table {
+    color: white;
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+    justify-content: center;
+    align-items: center;
+}
+
+.tableHeader {
+    color: white;
+    padding: 10px 5px;
+    text-align: center;
+    border: 1px solid white;
+    border-top: 0px;
+}
+
+.tableRow {
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.tableCell {
+    color: white;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid white;
+    border-bottom: 0px;
+}
+
+.i {
+    color: white;
+    border: 3px solid white;
+    width: 300px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.29);
+    cursor: pointer;
+}
+
+.flag {
+    color: white;
+    width: 40px;
+    margin: 6px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.flag1 {
+    color: white;
+    margin: 6px;
+    margin-right: 120px;
+    margin-left: 120px;
+}
+
+.countries {
+    color: white;
+    display: block;
+    margin-top: 10px;
+    margin-left: 65px;
+    padding: 0px;
+}
+
+.tableCountry {
+    color: white;
+    padding: 15px;
+    border: 1px solid white;
+    border-bottom: 0px;
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tab {
+    color: white;
+    margin-top: 20px;
+    margin-left: 21.5px;
+    width: 90%;
+    border-collapse: collapse;
+    justify-content: center;
+    align-items: center;
+}
+
+.table2 {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.tableChild1 {
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    border-top: 0px;
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+.totalMedalsStyle {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.g {
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    border-bottom: 0px;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.s {
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    border-bottom: 0px;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.logoStyle {
+    color: white;
+    display: block;
+    margin-top: 50px;
+    margin-left: 67.5px;
+}
+
+.frameStyle {
+    color: white;
+    display: block;
+    margin-top: 50px;
+    margin-left: 65px;
+}
+
+.icoCountriesStyle {
+    color: white;
+    display: block;
+    margin-top: 20px;
+    margin-left: 65px;
+    border: 3px solid white;
+    width: 300px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.29);
+    cursor: pointer;
+}
+
+.icoDisciplinesStyle {
+    display: block;
+    margin-top: 20px;
+    margin-left: 65px;
+    color: white;
+    border: 3px solid white;
+    width: 300px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.29);
+    cursor: pointer;
+}
+
+.containerStyle {
+    position: absolute;
+    background-image: url(./images/bg.png);
+    background-size: cover;
+    background-position: center;
+    padding: 0px;  
+    height: 100vh; /*103.540772532*/
+    width: 100vw;
+    color: white;
+    margin-left: 0;
+    margin-right: 0
+};
+
+.i1 {
+    color: white;
+    border: 3px solid white;
+    width: 300px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.29);
+    cursor: pointer;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.flag1 {
+    margin-left: 120px;
+}
+
+.table1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    width: 200%;
+}
+
+.tab1 {
+    padding: 0;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.tableRow1 {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.tableChild2 {
+    padding: 0 5px 20px 5px;
+    text-align: center;
+    border: 1px solid white;
+    border-top: 0;
+    margin: 0;
+}
+
+.go {
+    padding: 20px 20.485px 0 20.485px;
+    text-align: center;
+    border: 1px solid white;
+    border-bottom: 0;
+}
+
+.si {
+    padding: 20px 24.405px 0 24.405px;
+    text-align: center;
+    border: 1px solid white;
+    border-bottom: 0;
+}
+
+.b {
+    padding: 20px 32.335px 0 32.335px;
+    text-align: center;
+    border: 1px solid white;
+    border-bottom: 0;
+}
+
+.t {
+    padding: 20px 22.515px 0 22.515px;
+    text-align: center;
+    border: 1px solid white;
+    border-bottom: 0;
+}
+
+.medal {
+    margin-left: 10px;
+    width: 40px;
+}
+
+.disciplines {
+    display: flex;
+    flex-direction: column;
+    max-height: 80vh;
+    overflow-y:auto; /* Включает горизонтальную прокрутку */
+    gap: 10px; /* Расстояние между элементами */
+    padding: 10px;
+}
+
+.disciplines .i {
+    flex: 0 0 auto; /* Элементы не будут сжиматься */
+}
+
+.disciplines::-webkit-scrollbar {
+    background-color: rgb(88, 55, 55);
+    height: 40px; /* Размер скроллбара */
+    width: 20px;
+}
+
+.disciplines::-webkit-scrollbar-thumb {
+    background: #586e7b; /* Цвет скроллбара */
+    border-radius: 20px; /* Округлость */
+}
+
+.countries-list{
+    margin-left: 50px;
+}
